@@ -17,7 +17,8 @@
       <link>https://your.site.com/url/</link>
       <description>Content</description>
       <pubDate>2020-01-01</pubDate>
-      <banking>Turn the rudder 45 degrees to the left.</banking>
+      <airplanes:banking>Turn the rudder 45 degrees to the left.</airplanes:banking>
+      <financial:banking>Bank of Montreal</financial:banking>
     </item>
 
   </channel>
