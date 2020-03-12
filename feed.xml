@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns="http://backend.userland.com/rss2"
+     xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+     xmlns:financial="http://www.example.com/financial#"
+     xmlns:airplanes="http://www.foobar.com/ns/airplanes/">
 
   <channel>
 
